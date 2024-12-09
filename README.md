@@ -19,6 +19,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eptiara/count.svg" alt="Profile Views"/>
+</div>
+
+###
+
 <h2 align="left">Tech Stack & Tools</h2>
 
 ###
@@ -33,6 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" height="40" alt="adobe logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eptiara&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptiara&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="left">
