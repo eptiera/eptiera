@@ -19,7 +19,7 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>Design Tools</h3>
+<h3>Design</h3>
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD"/>
@@ -33,42 +33,6 @@
 </p>
 
 <div align="center">
-<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api?username=eptiara&hide_border=true&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptiara&hide_border=true&theme=radical" height="150" alt="GitHub Streak"/>
 </div>
-=======
-  <img src="https://profile-counter.glitch.me/eptiera/count.svg" alt="Profile Views"/>
-</div>
-
-###
-
-<h2 align="left">Tech Stack & Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="adobe xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eptiera&hide_border=true&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptiera&hide_border=true&theme=radical" height="150" alt="GitHub Streak" />
-</div>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eptiera">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
->>>>>>> 51beac12697d27e27f9e6d8d4808cf364383cce1
