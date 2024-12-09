@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/eptiara/count.svg" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/eptiera/count.svg" alt="Profile Views"/>
 </div>
 
 ###
@@ -42,12 +42,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eptiara&hide_border=true&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptiara&hide_border=true&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eptiera&hide_border=true&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptiera&hide_border=true&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eptiara">
+  <a href="https://www.linkedin.com/in/eptiera">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
 </div>
