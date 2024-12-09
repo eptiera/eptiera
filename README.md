@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/eptiara">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=eptiara&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=eptiera&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
 <h2>👨‍💻 About Me</h2>
@@ -33,6 +33,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eptiara&hide_border=true&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptiara&hide_border=true&theme=radical" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eptiera&hide_border=true&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptiera&hide_border=true&theme=radical" height="150" alt="GitHub Streak"/>
 </div>
