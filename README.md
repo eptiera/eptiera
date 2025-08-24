@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Epti Ara Era</h1>
 
-<p align="center">UI/UX Designer & AI Developer | Crafting Intelligent Digital Experiences</p>
+<p align="center">Machine Learning Engineer | Exploring AI & Data Science | Turning Ideas into Intelligent Systems</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eptiara">
+  <a href="https://www.linkedin.com/in/epti-ara-era-334a47256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=eptiera&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
