@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Epti Ara Era</h1>
+<h1 align="center">👋 Hi, Era</h1>
 
 <p align="center">Machine Learning Engineer | Exploring AI & Data Science | Turning Ideas into Intelligent Systems</p>
 
