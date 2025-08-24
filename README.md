@@ -12,9 +12,9 @@
 <h2>👨‍💻 About Me</h2>
 
 -👩‍💻 I’m currently exploring Machine Learning with Python.
-📌 Passionate about AI, Data Science, and Intelligent Systems.
-⚡ I enjoy solving problems through hands-on projects.
-📈 Always learning and aiming to apply ML in real-world scenarios.
+-📌 Passionate about AI, Data Science, and Intelligent Systems.
+-⚡ I enjoy solving problems through hands-on projects.
+-📈 Always learning and aiming to apply ML in real-world scenarios.
 
 <h2>🛠️ Tech Stack</h2>
 
