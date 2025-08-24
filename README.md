@@ -1,90 +1,129 @@
-# 🚀 Epti Ara Era | ML Enthusiast & Python Developer
+# ![AI Chip Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+# 🚀 **Epti Ara Era** | ML Enthusiast & Python Developer
+
+<div align="center">
+  
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+  [![Data Science](https://img.shields.io/badge/Data_Science-00D4AA?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+  [![AI](https://img.shields.io/badge/AI-FFD93D?style=for-the-badge&logo=openai&logoColor=black)](https://openai.com)
+  
+</div>
+
+---
+
+## 🧠 **About Me**
 
 ```python
-# 🧠 Neural Network in Progress...
-class EptiEra:
+class EptiAraEra:
     def __init__(self):
         self.name = "Epti Ara Era"
         self.role = "Computer Science Student"
         self.passion = "Machine Learning & AI"
-        self.language = "Python"
-        self.status = "Learning & Growing 🚀"
+        self.location = "🌍 Earth"
+        self.status = "🚀 Learning & Growing"
     
-    def learn_ml(self):
-        return "Exploring the fascinating world of algorithms!"
+    def current_focus(self):
+        return [
+            "🤖 Machine Learning with Python",
+            "📊 Data Science & Analytics", 
+            "🧮 Algorithm Development",
+            "🔬 Real-world ML Applications"
+        ]
+    
+    def learning_path(self):
+        return "Exploring the fascinating world of AI, one algorithm at a time!"
 ```
 
-## 🎯 What I'm Building
+---
 
-- **🤖 ML Models** - From simple linear regression to neural networks
-- **📊 Data Science Projects** - Turning raw data into insights
-- **🔬 Research & Experimentation** - Testing new algorithms and approaches
-- **🌐 Real-world Applications** - Solving practical problems with ML
+## 🛠️ **Tech Arsenal**
 
-## 🛠️ Tech Stack
+### **Core Languages & Tools**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### **ML & Data Science Stack**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+## 📈 **Learning Journey**
 
 ```mermaid
 graph LR
-    A[Python] --> B[Scikit-learn]
-    A --> C[TensorFlow/PyTorch]
-    A --> D[Pandas & NumPy]
-    A --> E[Matplotlib & Seaborn]
-    A --> F[Jupyter Notebooks]
+    A[Python Basics] --> B[Data Structures]
+    B --> C[NumPy & Pandas]
+    C --> D[Machine Learning]
+    D --> E[Deep Learning]
+    E --> F[AI Applications]
+    
+    style A fill:#FFD93D
+    style D fill:#FF6B6B
+    style F fill:#00D4AA
 ```
-
-## 🚀 Current Projects
-
-| Project | Status | Tech Used |
-|---------|--------|-----------|
-| 🔍 **Data Explorer** | 🟡 In Progress | Pandas, Matplotlib |
-| 🧠 **Neural Network Playground** | 🟢 Active | TensorFlow, NumPy |
-| 📈 **ML Algorithm Visualizer** | 🟡 Planning | Scikit-learn, Plotly |
-
-## 📚 Learning Path
-
-```
-🎯 2024 Goals:
-├── Master Deep Learning fundamentals
-├── Build 5+ ML projects
-├── Contribute to open-source ML libraries
-└── Participate in Kaggle competitions
-```
-
-## 🌟 What Makes Me Unique
-
-- **🎨 Creative Problem Solver** - I approach ML challenges with artistic thinking
-- **🔬 Experimental Mindset** - Always testing new approaches and algorithms
-- **📖 Knowledge Sharer** - Love documenting and sharing what I learn
-- **🌍 Real-world Focus** - Building solutions that actually matter
-
-## 🎮 Fun Facts
-
-- 🎵 I code to the rhythm of algorithms
-- 🌙 Late-night debugging sessions are my jam
-- ☕ Coffee + Python = Perfect debugging duo
-- 🎯 My goal: Make AI accessible to everyone
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle)](https://kaggle.com/yourprofile)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eptiera&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptiera&theme=radical" alt="GitHub Streak" />
-</div>
+## 🎯 **Current Projects & Goals**
+
+- 🔬 **Algorithm Explorer**: Building ML models from scratch
+- 📊 **Data Detective**: Analyzing real-world datasets
+- 🤖 **AI Experimenter**: Testing cutting-edge ML techniques
+- 🚀 **Project Builder**: Creating practical ML solutions
+
+---
+
+## 🌟 **What Makes Me Unique**
+
+- 🎨 **Creative Problem Solver**: Finding innovative approaches to ML challenges
+- 🔍 **Detail-Oriented**: Ensuring every model is optimized and efficient
+- 📚 **Continuous Learner**: Always exploring new ML techniques and libraries
+- 🌍 **Real-World Focus**: Building solutions that solve actual problems
+
+---
+
+## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eptiera&layout=compact&theme=radical" alt="Top Languages" />
+  
+  ![Epti's GitHub stats](https://github-readme-stats.vercel.app/api?username=eptiera&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eptiera&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
+  
 </div>
 
 ---
 
-> *"In the world of Machine Learning, every dataset tells a story, and every algorithm is a new adventure waiting to be explored."* 🚀
+## 🚀 **Let's Connect & Collaborate!**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eptiera&style=flat-square&color=blue" alt="Profile Views" />
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eptiera)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eptiera)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eptiera@example.com)
+  
+</div>
+
+---
+
+## 💡 **Favorite ML Quote**
+
+> *"Machine learning is the next internet."* - **Tony Tether**
+
+---
+
+<div align="center">
+  
+  ### 🎯 **Ready to build the future with AI!**
+  
+  ![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=for-the-badge&logo=python&logoColor=white)
+  
 </div>
