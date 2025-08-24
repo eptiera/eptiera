@@ -11,11 +11,10 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 🎨 UI/UX Designer with a focus on creating intuitive and accessible interfaces
-- 🤖 AI Developer specializing in machine learning and computer vision
-- 📚 Currently exploring: Advanced AI/ML architectures & Modern UX patterns
-- 🎯 Mission: Building AI-powered solutions that enhance human experiences
-- ☕ Fun fact: Fueled by coffee to create both pixel-perfect designs & efficient algorithms
+-👩‍💻 I’m currently exploring Machine Learning with Python.
+📌 Passionate about AI, Data Science, and Intelligent Systems.
+⚡ I enjoy solving problems through hands-on projects.
+📈 Always learning and aiming to apply ML in real-world scenarios.
 
 <h2>🛠️ Tech Stack</h2>
 
