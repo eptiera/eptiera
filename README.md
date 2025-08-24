@@ -11,10 +11,17 @@
 
 <h2>👨‍💻 About Me</h2>
 
--👩‍💻 I’m currently exploring Machine Learning with Python.
--📌 Passionate about AI, Data Science, and Intelligent Systems.
--⚡ I enjoy solving problems through hands-on projects.
--📈 Always learning and aiming to apply ML in real-world scenarios.
+Hi, I’m Epti! I’m a Computer Science student with a growing interest in Machine Learning, AI, and Data Science. 
+Currently, I’m exploring Machine Learning with Python and working on projects that help me understand real-world
+applications of algorithms and data-driven solutions.
+I’m passionate about:
+🔬 Artificial Intelligence & Data Science – turning data into insights.
+
+⚡ Problem-Solving & Research – building solutions step by step.
+
+🚀 Continuous Learning – always exploring new tools, libraries, and concepts.
+
+I enjoy combining my technical skills with creative thinking, and I’m always open to collaborating on innovative projects.
 
 <h2>🛠️ Tech Stack</h2>
 
