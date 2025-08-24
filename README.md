@@ -1,5 +1,19 @@
 # 👋 Hi, I'm Epti Ara Era
 
+<p align = "center">
+<img src="ml.gif" alt="Machine Learning">
+</p>
+
+
+<p align="center">
+<a href="https://www.kaggle.com/shaifulislam" target="blank"><img align="center" src="kaggle.png" alt="dephraiim" height="18" width="20" /></a>
+<a href="https://www.linkedin.com/in/shaiful019/" target="blank"><img align="center" src="linkedin.png" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/5193658/shaiful-islam" target="blank"><img align="center" src="stack-overflow.png" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://twitter.com/IslamMador" target="blank"><img align="center" src="twitter.png" alt="dephraiim" height="20" width="20" /></a>
+</p>
+<br>
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Data+Science+Explorer" alt="Typing SVG" />
 </div>
