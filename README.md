@@ -156,9 +156,11 @@ I'm a **Computer Science student** with an insatiable curiosity for **Machine Le
 
 <div align="center">
   
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epti-ara-era-334a47256/)" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/epti-ara-era-334a47256">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/eptiaraera" alt="Kaggle" />
+ <a href="https://www.kaggle.com/eptiaraera">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 
   
