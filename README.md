@@ -15,7 +15,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epti-ara-era-334a47256/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/eptiaraera)
-  
+  ![Profile Views](https://komarev.com/ghpvc/?username=eptiera&style=flat-square&color=00D4FF&label=PROFILE+VIEWS)
 </div>
 
 ---
@@ -173,13 +173,7 @@ I'm a **Computer Science student** with an insatiable curiosity for **Machine Le
 
 ---
 
-## 🎉 **Visitor Counter**
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=eptiera&style=flat-square&color=00D4FF&label=PROFILE+VIEWS)
-  
-  <br>
   
   <p><em>🎯 <strong>Thanks for visiting my ML journey!</strong> Let's connect and build amazing AI solutions together! 🚀</em></p>
   
