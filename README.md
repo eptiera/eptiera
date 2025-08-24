@@ -15,6 +15,7 @@ Hi, I’m Epti! I’m a Computer Science student with a growing interest in Mach
 Currently, I’m exploring Machine Learning with Python and working on projects that help me understand real-world
 applications of algorithms and data-driven solutions.
 I’m passionate about:
+
 🔬 Artificial Intelligence & Data Science – turning data into insights.
 
 ⚡ Problem-Solving & Research – building solutions step by step.
