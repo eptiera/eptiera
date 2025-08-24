@@ -1,4 +1,4 @@
-# 🚀 **Epti Ara Era** - ML Enthusiast & Python Developer
+# 🚀 **Hi,I'm Epti Ara Era** - Machine Learning Enthusiast & Python Developer
 
 <div align="center">
   
@@ -8,14 +8,14 @@
   <br>
   
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=🤖+ML+Explorer;🐍+Python+Wizard;📊+Data+Science+Enthusiast;🚀+AI+Adventurer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=🤖+Machine+learning+Explorer;🐍+Python+Wizard;📊+Data+Science+Enthusiast;🚀+AI+Adventurer" alt="Typing SVG" />
   </div>
   
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epti-ara-era-334a47256/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/eptiaraera)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:22203177iubat.edu)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Google Chrome:22203177iubat.edu)
   
 </div>
 
