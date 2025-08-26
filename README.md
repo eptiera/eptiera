@@ -86,20 +86,6 @@ I'm a **Computer Science student** with an insatiable curiosity for **Machine Le
 
 ---
 
-## 🚧 **Projects in the Pipeline**
-
-### **🤖 ML Projects**
-- **[Project Alpha]** - *Smart Recommendation System* - `Python` `Scikit-learn` `Pandas`
-- **[Project Beta]** - *Image Classification with CNN* - `TensorFlow` `OpenCV` `NumPy`
-- **[Project Gamma]** - *Natural Language Processing Tool* - `NLTK` `Transformers` `Streamlit`
-
-### **📊 Data Science Projects**
-- **[DataViz]** - *Interactive Dashboard* - `Plotly` `Dash` `PostgreSQL`
-- **[DataCleaner]** - *Automated Data Pipeline* - `Apache Airflow` `Pandas` `SQLAlchemy`
-
----
-
-
 ### **🌐 Communities**
 - **Kaggle** - *Competitions & Discussions* 🏅
 
