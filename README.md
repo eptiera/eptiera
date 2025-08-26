@@ -23,8 +23,7 @@
 ## 🎯 **Who Am I?**
 
 > *"In a world full of data, I'm the one asking the right questions and building the algorithms to find the answers!"* 🧠✨
-
-I'm a **Computer Science student** with an insatiable curiosity for **Machine Learning**, **AI**, and **Data Science**. Currently diving deep into the fascinating world of ML with Python, exploring real-world applications of algorithms and data-driven solutions.
+I am a **Computer Science** student exploring the world of **Machine Learning with Python**. Passionate about **AI**, **Data Science**, and **Intelligent Systems**, I enjoy building projects that strengthen my problem-solving and technical skills. With a strong interest in applying ML to real-world challenges, I am continuously learning, experimenting, and growing as a developer.
 
 **Fun Fact:** I believe every dataset has a story to tell, and I'm here to be the storyteller! 📚
 
@@ -96,16 +95,6 @@ I'm a **Computer Science student** with an insatiable curiosity for **Machine Le
 > *"Machine learning is like teaching a computer to fish - once it learns the pattern, it can catch data insights for a lifetime!"* 🎣
 
 > *"In the world of AI, the best algorithm is the one that solves your problem, not the most complex one!"* ⚡
-
----
-
-## 🎮 **Fun ML Facts About Me**
-
-- 🧠 **Brain Type**: *Neural Network Enthusiast*
-- 🐍 **Spirit Animal**: *Python (obviously!)*
-- 🎯 **Superpower**: *Finding patterns in chaos*
-- 🚀 **Dream**: *Build an AI that writes better code than me*
-- 🎨 **Hobby**: *Visualizing data in creative ways*
 
 ---
 
