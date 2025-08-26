@@ -91,22 +91,6 @@ I'm a **Computer Science student** with an insatiable curiosity for **Machine Le
 
 ---
 
-## 🌟 **2024 Vision Board**
-
-<div align="center">
-  
-  | 🎯 **Milestone** | 📅 **Timeline** | 🏆 **Reward** |
-  |------------------|-----------------|----------------|
-  | Complete 5+ ML projects | Q2 2024 | 🥇 **ML Badge** |
-  | Contribute to open-source | Q3 2024 | 🌟 **GitHub Star** |
-  | Build ML portfolio | Q4 2024 | 🎓 **Portfolio Ready** |
-  | Kaggle competitions | Ongoing | 🏅 **Competition Expert** |
-  | Learn Deep Learning | Q2-Q3 2024 | 🧠 **AI Master** |
-  
-</div>
-
----
-
 ## 💡 **ML Wisdom Corner**
 
 > *"Machine learning is like teaching a computer to fish - once it learns the pattern, it can catch data insights for a lifetime!"* 🎣
