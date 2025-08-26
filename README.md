@@ -99,22 +99,9 @@ I'm a **Computer Science student** with an insatiable curiosity for **Machine Le
 
 ---
 
-## 📚 **Learning Journey**
-
-### **📖 Currently Reading**
-- **"Hands-On Machine Learning"** by Aurélien Géron 📚
-- **"Python for Data Analysis"** by Wes McKinney 📊
-- **"Deep Learning"** by Ian Goodfellow 🧠
-
-### **🎓 Online Courses**
-- **Coursera ML Specialization** - *Andrew Ng* 🎯
-- **Fast.ai Practical Deep Learning** - *Jeremy Howard* ⚡
-- **Kaggle Learn** - *Various Topics* 🏆
 
 ### **🌐 Communities**
 - **Kaggle** - *Competitions & Discussions* 🏅
-- **ML Discord Groups** - *Real-time Learning* 💬
-- **Reddit r/MachineLearning** - *Latest Trends* 🔥
 
 ---
 
